@@ -1,0 +1,6 @@
+
+<html>
+<body bgcolour="#FFFF00>
+<center><h1>{{ grains['fqdn'] }}</h1></center>
+</body>
+</html>
